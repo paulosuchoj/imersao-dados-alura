@@ -8,7 +8,7 @@
 > * Numpy
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9214649/117378793-7fffa380-aeac-11eb-812e-0d209e163db3.png">
+  <img src="https://user-images.githubusercontent.com/9214649/117388936-f064ef80-aec1-11eb-89b7-12fdd7c84aa5.png">
 </p>
 
 ## O que é a Imersão Dados?
@@ -23,5 +23,18 @@ Esse dataset foi elaborado e disponibilizado pelo projeto **[Connectivity Map](h
 
 ### Desafios Resolvidos
 
+[Desafio da Aula 01 - 03/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/desafios/Imersao_Dados_Alura_Aula_01.ipynb)
+
+[Desafio da Aula 02 - 04/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/desafios/Imersao_Dados_Alura_Aula_02.ipynb)
+
+[Desafio da Aula 03 - 05/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/desafios/Imersao_Dados_Alura_Aula_03.ipynb)
+
+[Desafio da Aula 04 - 06/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/desafios/Imersao_Dados_Alura_Aula_04.ipynb)
 
 ### Notebooks Originais do Google Colab
+
+[Aula 01 - 03/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/notebooks/Aula_01.ipynb)
+
+[Aula 02 - 04/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/notebooks/Aula_02.ipynb)
+
+[Aula 03 - 05/05/2021](https://github.com/psuchoj/imersao-dados-alura/blob/main/notebooks/Aula_03.ipynb)
